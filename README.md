@@ -10,12 +10,12 @@ Here you can surely find stranger things and broken codes... they works... I swe
 - 📫 How to reach me: brenosoares4303@gmail.com
 - ⚡ Fun fact: Javascript's three equals to compare make a lot of sense >:(
 
-### What I'm listening recently (soma bad musics, you know)
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=breno_soares43)
-
 
 ### My top languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### What I'm listening recently (some bad musics, you know)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=breno_soares43)
