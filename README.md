@@ -13,7 +13,7 @@ Here you can surely find stranger things and broken codes... they works... I swe
 
 ### My top languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout="compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
 ### What I'm listening recently (some bad musics, you know)
 
