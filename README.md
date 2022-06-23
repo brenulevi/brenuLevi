@@ -2,19 +2,18 @@
 
 Here you can surely find stranger things and broken codes... they works... I swear. xD
 
-- 🔭 I’m currently working on learn more. :)
-- 🌱 I’m currently learning Computer Science in general.
+- 🌱 I’m currently learning Computer Science.
 - 👯 I’m looking to collaborate on any problematic that I can participate to solve.
-- 🤔 I’m looking for help with anything great.
 - 💬 Ask me about Back-end development and Game Dev
 - 📫 How to reach me: brenosoares4303@gmail.com
 - ⚡ Fun fact: Javascript's three equals to compare make a lot of sense >:(
 
+### Some languages I know:
+
 
 ### My top languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout="compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### What I'm listening recently (some bad musics, you know)
 
