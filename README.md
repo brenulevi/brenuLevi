@@ -10,16 +10,16 @@ Here you can surely find stranger things and broken codes... they works... I swe
 
 ### Stats:
 
-[![GitHub Stats]<img src="https://github-readme-stats.vercel.app/api?username=brenulevi&show_icons=true&theme=dark"/>]
+<img src="https://github-readme-stats.vercel.app/api?username=brenulevi&show_icons=true&theme=dark"/>
 
 ### My streaks:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brenulevi&theme=dark)]
+(https://github-readme-streak-stats.herokuapp.com?user=brenulevi&theme=dark)
 
 ### My top languages:
 
-[![GitHub Languages]<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenulevi&layout=compact&theme=dark"/>]
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenulevi&layout=compact&theme=dark"/>
 
 ### What I'm listening recently (some bad musics, you know)
 
-![[Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=breno_soares43)]
+(https://spotify-recently-played-readme.vercel.app/api?user=breno_soares43)
