@@ -8,12 +8,14 @@ Here you can surely find stranger things and broken codes... they works... I swe
 - 📫 How to reach me: brenosoares4303@gmail.com
 - ⚡ Fun fact: Javascript's three equals to compare make a lot of sense >:(
 
-### Some languages I know:
+### Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=brenulevi&show_icons=true&theme=dark"/>
 
 
 ### My top languages:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenulevi&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenulevi&layout=compact&theme=dark"/>
 
 ### What I'm listening recently (some bad musics, you know)
 
