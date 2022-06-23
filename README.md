@@ -14,7 +14,7 @@ Here you can surely find stranger things and broken codes... they works... I swe
 
 ### My streaks:
 
-(https://github-readme-streak-stats.herokuapp.com?user=brenulevi&theme=dark)
+<imt src="https://github-readme-streak-stats.herokuapp.com?user=brenulevi&theme=dark"/>
 
 ### My top languages:
 
