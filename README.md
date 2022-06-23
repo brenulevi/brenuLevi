@@ -8,7 +8,7 @@ Here you can surely find stranger things and broken codes... they works... I swe
 - 📫 How to reach me: brenosoares4303@gmail.com
 - ⚡ Fun fact: Javascript's three equals to compare make a lot of sense >:(
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25px" />
 
 ### Stats:
 
