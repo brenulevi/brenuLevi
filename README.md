@@ -10,7 +10,7 @@ Here you can surely find stranger things and broken codes... they works... I swe
 
 <br>
 
-<div style="display: flex">
+<div style="display: flex; gap: 1rem;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" />
