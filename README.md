@@ -14,7 +14,7 @@ Here you can surely find stranger things and broken codes... they works... I swe
 
 ### My streaks:
 
-<imt src="https://github-readme-streak-stats.herokuapp.com?user=brenulevi&theme=dark"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brenulevi&theme=dark)](https://git.io/streak-stats)
 
 ### My top languages:
 
