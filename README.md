@@ -8,6 +8,7 @@ Here you can surely find stranger things and broken codes... they works... I swe
 - 📫 How to reach me: brenosoares4303@gmail.com
 - ⚡ Fun fact: Javascript's three equals to compare make a lot of sense >:(
 
+<div style="display: flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" />
@@ -16,7 +17,8 @@ Here you can surely find stranger things and broken codes... they works... I swe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50px" />
-
+</div>
+  
 ### Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=brenulevi&show_icons=true&theme=dark"/>
