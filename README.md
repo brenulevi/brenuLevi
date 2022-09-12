@@ -23,6 +23,10 @@ Here you can surely find stranger things and broken codes... but they works... I
 
 <br>
   
+### My top languages:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenulevi&layout=compact&theme=dark"/>
+  
 ### Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=brenulevi&show_icons=true&theme=dark"/>
@@ -31,7 +35,4 @@ Here you can surely find stranger things and broken codes... but they works... I
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brenulevi&theme=dark)](https://git.io/streak-stats)
 
-### My top languages:
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenulevi&layout=compact&theme=dark"/>
 </div>
