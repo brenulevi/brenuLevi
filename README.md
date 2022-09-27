@@ -57,7 +57,7 @@ Here you can surely find stranger things and broken codes... but they works... I
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=49999728433&text=Hi!)
 
 ## My top languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenulevi&layout=compact&theme=vue&hide=shaderlab,hlsl&langs_count=6)](https://github.com/BrenuLevi?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenulevi&layout=compact&theme=vue&hide=shaderlab,hlsl&langs_count=7)](https://github.com/BrenuLevi?tab=repositories)
 
 ## My stats 
 [![Stats](https://github-readme-stats.vercel.app/api?username=brenulevi&show_icons=true&theme=vue)](https://github.com/BrenuLevi)
