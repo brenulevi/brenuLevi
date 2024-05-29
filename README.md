@@ -50,7 +50,7 @@ Here you can surely find stranger things and broken codes... but they works... I
 </p>
 
 ## Connect with me
-[![Twitter](https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brenu_levi)
+[![Twitter](https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/brenosalves1)
 [![Instagram](https://img.shields.io/badge/Instagram-purple.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brenu_levi)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/brenulevi/)
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:brenosoares4303@gmail.com)
